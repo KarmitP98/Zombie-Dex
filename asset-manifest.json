@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zombie-Dex/static/css/main.3f9085b3.chunk.css",
+    "main.js": "/Zombie-Dex/static/js/main.38aa8748.chunk.js",
+    "main.js.map": "/Zombie-Dex/static/js/main.38aa8748.chunk.js.map",
+    "runtime-main.js": "/Zombie-Dex/static/js/runtime-main.e6732709.js",
+    "runtime-main.js.map": "/Zombie-Dex/static/js/runtime-main.e6732709.js.map",
+    "static/js/2.20de7b25.chunk.js": "/Zombie-Dex/static/js/2.20de7b25.chunk.js",
+    "static/js/2.20de7b25.chunk.js.map": "/Zombie-Dex/static/js/2.20de7b25.chunk.js.map",
+    "static/js/3.a7662865.chunk.js": "/Zombie-Dex/static/js/3.a7662865.chunk.js",
+    "static/js/3.a7662865.chunk.js.map": "/Zombie-Dex/static/js/3.a7662865.chunk.js.map",
+    "index.html": "/Zombie-Dex/index.html",
+    "static/css/main.3f9085b3.chunk.css.map": "/Zombie-Dex/static/css/main.3f9085b3.chunk.css.map",
+    "static/js/2.20de7b25.chunk.js.LICENSE.txt": "/Zombie-Dex/static/js/2.20de7b25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6732709.js",
+    "static/js/2.20de7b25.chunk.js",
+    "static/css/main.3f9085b3.chunk.css",
+    "static/js/main.38aa8748.chunk.js"
+  ]
+}
